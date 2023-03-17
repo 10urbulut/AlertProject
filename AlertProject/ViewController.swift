@@ -46,7 +46,7 @@ class ViewController: UIViewController {
         
         if passwordAgainText.text != passwordText.text
         {
-             makeAlert(title: nil, message: "Passwords are not same!")
+               makeAlert(title: nil, message: "Passwords are not same!")
            
         }
         
